@@ -1,7 +1,6 @@
-# LibraryManagementSystem
-# Live Website
+# Live Library Management System Website 
  https://jubaidatabassum.github.io/LibraryManagementSystem/
- # 📚 Library Management System
+# 📚 Library Management System
 
 A simple and user-friendly web-based library management project designed to organize and manage library books efficiently.
 
