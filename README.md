@@ -6,7 +6,11 @@ A simple and user-friendly web-based library management project designed to orga
 
 # ✨ Features
 
+Admin and Student Dashboard
+
 Browse and search books
+
+Borrow and Return Books
 
 Manage book records
 
